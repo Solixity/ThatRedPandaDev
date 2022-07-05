@@ -25,5 +25,5 @@
 <p>Hello! My name's Mozza and I'm a 17-year-old developer residing on the Eastern Coast of NC. I really don't do much unfortunately so if you need anything, <a href="mailto:hi@mozman.one">just feel free to reach out to me</a>.</p>
 
 <h2>My Badges</h2>
-![Mozza's GitHub stats](https://github-readme-stats.vercel.app/api?username=ThatRedPandaDev&count_private=true&theme=merko)
+<img alt="Mozza&#39;s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ThatRedPandaDev&amp;count_private=true&amp;theme=merko"/>
 
