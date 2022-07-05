@@ -6,7 +6,7 @@
 <div style="text-align: center;">
     <h2>Another furry developer that is, somehow, just managing to exist.</h2>
 </div>
-<hr />
+
 
 <div style="text-align: center;">
     <img src="https://img.shields.io/badge/status-not looking for work-2c2f33?style=for-the-badge">
