@@ -1,29 +1,27 @@
-<div style="text-align: center;">
-    <img src="banner2.png">
-</div>
-<br /><br />
-
-<div style="text-align: center;">
-    <h2>Another furry developer that is, somehow, just managing to exist.</h2>
+<!-- Markdown is just HTML on drugs. -->
+<div>
+    <img align="center" src="banner2.png">
 </div>
 
+<hr />
 
-<div style="text-align: center;">
-    <img src="https://img.shields.io/badge/status-not looking for work-2c2f33?style=for-the-badge">
-    <br />
-    <a href="//roblox.com/users/75001663">    
-        <img src="https://img.shields.io/badge/roblox-forthcordian-red?style=for-the-badge">
-    </a>
-        <a href="#">    
-        <img src="https://img.shields.io/badge/discord-forth&nbsp;0001-7298da?style=for-the-badge">
-    </a>
-</div>
+## About Me:
 
-<br /><br />
+- 🎓 High School Senior.
+- 🐼 A ~~nearly-fat~~ red panda.
+- 💻 Intermediate programmer.
+- 💌 Easily reachable @ [hi@mozman.one](hi@mozman.one).
+- ⚡ I stole your fridge and all of the contents are now gone.
 
-<h2>About me</h2>
-<p>Hello! My name's Mozza and I'm a 17-year-old developer residing on the Eastern Coast of NC. I really don't do much unfortunately so if you need anything, <a href="mailto:hi@mozman.one">just feel free to reach out to me</a>.</p>
+## My Projects
 
-<h2>My Badges</h2>
-<img alt="Mozza&#39;s GitHub stats" src="https://github-readme-stats.vercel.app/api?username=ThatRedPandaDev&amp;count_private=true&amp;theme=merko"/>
+### None...
+as of now of course. I mainly work on/with organizations. As always, you can view [my public projects](https://github.com/ThatRedPandaDev?tab=projects&type=beta) as not everything will be listed here.
 
+## My Organizations
+[![Discord Labs](labs.png)](https://github.com/discordlabs) 
+[![Levely](Levely.png)](https://github.com/levely)
+[![Fenix](Fenix.png)](https://discord.gg/SBhgSNb)
+<small>Wanna see the source images for this? View them on [figma.com](https://www.figma.com/file/u2PCYwtOo7MLj5pNRWxzd1/Organization-Banners?node-id=0%3A1)!</small>
+
+<small><i>Thanks @VulpoTheDev for the README influence!</i></small> 
