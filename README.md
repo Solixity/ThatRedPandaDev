@@ -20,7 +20,6 @@ as of now of course. I mainly work on/with organizations. As always, you can vie
 
 ## My Organizations
 [![Discord Labs](labs.png)](https://github.com/discordlabs) 
-[![Levely](Levely.png)](https://github.com/levelybot)
 [![Fenix](Fenix.png)](https://discord.gg/SBhgSNb)
 <small>Wanna see the source images for this? View them on [figma.com](https://www.figma.com/file/u2PCYwtOo7MLj5pNRWxzd1/Organization-Banners?node-id=0%3A1)!</small>
 
