@@ -8,7 +8,7 @@
 ## About Me:
 
 - 🎓 High School Senior.
-- 🐼 A ~~nearly-fat~~ red panda.
+- 🐼 A red panda.
 - 💻 Intermediate programmer.
 - 💌 Easily reachable @ [hi@mozman.one](hi@mozman.one).
 - ⚡ I stole your fridge and all of the contents are now gone.
